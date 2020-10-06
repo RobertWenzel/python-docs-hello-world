@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "env\\Scripts\\python.exe"
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/362863e0-af4f-45d7-b1af-02c0a8c91c3d/resourceGroups/Webhook_Test/providers/Microsoft.Web/sites/whdemoapp",
+    "appService.deploySubpath": "."
 }
